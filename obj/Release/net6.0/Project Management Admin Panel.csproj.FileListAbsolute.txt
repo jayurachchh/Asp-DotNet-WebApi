@@ -1,0 +1,63 @@
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\appsettings.Development.json
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\appsettings.json
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\Project Management Admin Panel.exe
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\Project Management Admin Panel.deps.json
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\Project Management Admin Panel.runtimeconfig.json
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\Project Management Admin Panel.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\Project Management Admin Panel.pdb
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\Oracle.ManagedDataAccess.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\System.Data.Odbc.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\System.Data.OleDb.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\System.Data.SqlClient.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\System.Security.Permissions.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\Unity.Abstractions.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\Unity.Interception.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\Project Management Admin Panel.csproj.AssemblyReference.cache
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\Project Management Admin Panel.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\Project Management Admin Panel.AssemblyInfoInputs.cache
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\Project Management Admin Panel.AssemblyInfo.cs
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\Project Management Admin Panel.csproj.CoreCompileInputs.cache
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\Project Management Admin Panel.MvcApplicationPartsAssemblyInfo.cs
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\Project Management Admin Panel.MvcApplicationPartsAssemblyInfo.cache
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\staticwebassets\msbuild.Project Management Admin Panel.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\staticwebassets\msbuild.build.Project Management Admin Panel.props
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project Management Admin Panel.props
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Project Management Admin Panel.props
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\staticwebassets.pack.json
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\staticwebassets.build.json
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\staticwebassets.development.json
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\scopedcss\bundle\Project Management Admin Panel.styles.css
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\Project Management Admin Panel.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\refint\Project Management Admin Panel.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\Project Management Admin Panel.pdb
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\Project Management Admin Panel.genruntimeconfig.cache
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\ref\Project Management Admin Panel.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\Project Management Admin Panel.staticwebassets.runtime.json
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\BouncyCastle.Crypto.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\FluentValidation.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\FluentValidation.AspNetCore.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\itextsharp.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\Project Management Admin Panel.sourcelink.json
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\Project .AB2F5815.Up2Date

@@ -1,0 +1,34 @@
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\Project Management Admin Panel.exe
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\Project Management Admin Panel.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\Project Management Admin Panel.deps.json
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\Project Management Admin Panel.runtimeconfig.json
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\Project Management Admin Panel.pdb
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\Oracle.ManagedDataAccess.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\System.Data.Odbc.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\System.Data.OleDb.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\System.Diagnostics.PerformanceCounter.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\System.Security.Permissions.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\Unity.Abstractions.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\Unity.Interception.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\dot net\Project Management Admin Panel\Project Vs File\Project Management Admin Panel\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

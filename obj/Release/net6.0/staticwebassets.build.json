@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "dLfIt/Tp+yC0Vu7g0DV+KV3887/ealVCMdmKu6mFEzg=",
+  "Source": "Project Management Admin Panel",
+  "BasePath": "_content/Project Management Admin Panel",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Project Management Admin Panel\\wwwroot",
+      "Source": "Project Management Admin Panel",
+      "ContentRoot": "D:\\dot net\\Project Management Admin Panel\\Project Vs File\\Project Management Admin Panel\\wwwroot\\",
+      "BasePath": "_content/Project Management Admin Panel",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

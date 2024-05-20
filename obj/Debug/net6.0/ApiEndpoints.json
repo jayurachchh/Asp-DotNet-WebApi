@@ -1,0 +1,842 @@
+[
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.DashbordController",
+    "Method": "Get",
+    "RelativePath": "api/Dashbord/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.EmailController",
+    "Method": "Login_Email",
+    "RelativePath": "api/Email/Login_Email/{Email}\u0026{Username}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "Username",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controller.EmployeeController",
+    "Method": "MultipleDelete",
+    "RelativePath": "api/Employee/Delete{EmpIDlist}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EmpIDlist",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controller.EmployeeController",
+    "Method": "Get",
+    "RelativePath": "api/Employee/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controller.EmployeeController",
+    "Method": "Get",
+    "RelativePath": "api/Employee/Get{EmpID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EmpID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controller.EmployeeController",
+    "Method": "GetManager",
+    "RelativePath": "api/Employee/GetManager",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controller.EmployeeController",
+    "Method": "Gettaskassign",
+    "RelativePath": "api/Employee/Gettaskassign",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controller.EmployeeController",
+    "Method": "Gettasknotassign",
+    "RelativePath": "api/Employee/Gettasknotassign",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controller.EmployeeController",
+    "Method": "InsertAsync",
+    "RelativePath": "api/Employee/Insert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EmpID",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "EmpName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "EmpCode",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "EmpPosition",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "EmpContact",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "EmpEmail",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "EmpDepartment",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "EmpDateOfBirth",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "EmpProfileImage",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "EmpProfileImagefile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "EmpProofImagefile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "EmpProofImage",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "EmpProofName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "EmpManagerId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "EmpPerHourCharge",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "EmpGitLink",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Created",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Modified",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controller.EmployeeController",
+    "Method": "Filter",
+    "RelativePath": "api/Employee/Post",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeModel",
+        "Type": "Project_Management_Admin_Panel.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controller.EmployeeController",
+    "Method": "FilterTaskassign",
+    "RelativePath": "api/Employee/TaskassignFilter",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeModel",
+        "Type": "Project_Management_Admin_Panel.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controller.EmployeeController",
+    "Method": "FilterTaskNotassign",
+    "RelativePath": "api/Employee/TaskNotassignFilter",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeModel",
+        "Type": "Project_Management_Admin_Panel.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controller.EmployeeController",
+    "Method": "Update",
+    "RelativePath": "api/Employee/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EmpID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "employeeModel",
+        "Type": "Project_Management_Admin_Panel.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.ProjectController",
+    "Method": "GetComplete",
+    "RelativePath": "api/Project/Complete",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.ProjectController",
+    "Method": "FilterComplete",
+    "RelativePath": "api/Project/Complete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectModel",
+        "Type": "Project_Management_Admin_Panel.Models.Project",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.ProjectController",
+    "Method": "GetCurrent",
+    "RelativePath": "api/Project/Current",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.ProjectController",
+    "Method": "FilterCurrent",
+    "RelativePath": "api/Project/Current",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectModel",
+        "Type": "Project_Management_Admin_Panel.Models.Project",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.ProjectController",
+    "Method": "MultipleDelete",
+    "RelativePath": "api/Project/Delete{ProjectIDlist}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ProjectIDlist",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.ProjectController",
+    "Method": "Get",
+    "RelativePath": "api/Project/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.ProjectController",
+    "Method": "Get",
+    "RelativePath": "api/Project/Get{ProjID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ProjID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.ProjectController",
+    "Method": "Insert",
+    "RelativePath": "api/Project/Insert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectModel",
+        "Type": "Project_Management_Admin_Panel.Models.Project",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.ProjectController",
+    "Method": "Filter",
+    "RelativePath": "api/Project/Post",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectModel",
+        "Type": "Project_Management_Admin_Panel.Models.Project",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.ProjectController",
+    "Method": "GetUpcoming",
+    "RelativePath": "api/Project/Upcoming",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.ProjectController",
+    "Method": "FilterUpcoming",
+    "RelativePath": "api/Project/Upcoming",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectModel",
+        "Type": "Project_Management_Admin_Panel.Models.Project",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.ProjectController",
+    "Method": "Update",
+    "RelativePath": "api/Project/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ProjID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "projectModel",
+        "Type": "Project_Management_Admin_Panel.Models.Project",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.ProjectWiseTaskController",
+    "Method": "MultipleDelete",
+    "RelativePath": "api/ProjectWiseTask/Delete{ProjectWisetaskIDlist}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ProjectWisetaskIDlist",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.ProjectWiseTaskController",
+    "Method": "Get",
+    "RelativePath": "api/ProjectWiseTask/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.ProjectWiseTaskController",
+    "Method": "Get",
+    "RelativePath": "api/ProjectWiseTask/Get{ProjWiseTaskID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ProjWiseTaskID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.ProjectWiseTaskController",
+    "Method": "Insert",
+    "RelativePath": "api/ProjectWiseTask/Insert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectWiseTaskModel",
+        "Type": "Project_Management_Admin_Panel.Models.ProjectWiseTask",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.ProjectWiseTaskController",
+    "Method": "Filter",
+    "RelativePath": "api/ProjectWiseTask/Post",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectWiseTaskModel",
+        "Type": "Project_Management_Admin_Panel.Models.ProjectWiseTask",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.ProjectWiseTaskController",
+    "Method": "Update",
+    "RelativePath": "api/ProjectWiseTask/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ProjWiseTaskID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "projectWiseTaskModel",
+        "Type": "Project_Management_Admin_Panel.Models.ProjectWiseTask",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.RecentActionController",
+    "Method": "Get",
+    "RelativePath": "api/RecentAction/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.StatusController",
+    "Method": "Delete",
+    "RelativePath": "api/Status/Delete{StatusID}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "StatusID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.StatusController",
+    "Method": "Get",
+    "RelativePath": "api/Status/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.StatusController",
+    "Method": "Get",
+    "RelativePath": "api/Status/Get{StatusID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "StatusID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.StatusController",
+    "Method": "Insert",
+    "RelativePath": "api/Status/Insert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "statusModel",
+        "Type": "Project_Management_Admin_Panel.Models.StatusModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.StatusController",
+    "Method": "Update",
+    "RelativePath": "api/Status/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "StatusID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "statusModel",
+        "Type": "Project_Management_Admin_Panel.Models.StatusModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.TaskAssignController",
+    "Method": "MultipleDelete",
+    "RelativePath": "api/TaskAssign/Delete{TaskAssignlist}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TaskAssignlist",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.TaskAssignController",
+    "Method": "Get",
+    "RelativePath": "api/TaskAssign/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.TaskAssignController",
+    "Method": "Get",
+    "RelativePath": "api/TaskAssign/Get{TaskAssignID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TaskAssignID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.TaskAssignController",
+    "Method": "Insert",
+    "RelativePath": "api/TaskAssign/Insert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TaskAssignModel",
+        "Type": "Project_Management_Admin_Panel.Models.TaskAssign",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.TaskAssignController",
+    "Method": "Filter",
+    "RelativePath": "api/TaskAssign/Post",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskAssignModel",
+        "Type": "Project_Management_Admin_Panel.Models.TaskAssign",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.TaskAssignController",
+    "Method": "Update",
+    "RelativePath": "api/TaskAssign/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TaskAssignID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "TaskAssignModel",
+        "Type": "Project_Management_Admin_Panel.Models.TaskAssign",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.TaskPriorityController",
+    "Method": "Delete",
+    "RelativePath": "api/TaskPriority/Delete{TaskPriorityID}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TaskPriorityID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.TaskPriorityController",
+    "Method": "Get",
+    "RelativePath": "api/TaskPriority/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.TaskPriorityController",
+    "Method": "Get",
+    "RelativePath": "api/TaskPriority/Get{TaskPriorityID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TaskPriorityID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.TaskPriorityController",
+    "Method": "Insert",
+    "RelativePath": "api/TaskPriority/Insert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskPriority",
+        "Type": "Project_Management_Admin_Panel.Models.TaskPriority",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.TaskPriorityController",
+    "Method": "Update",
+    "RelativePath": "api/TaskPriority/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TaskPriorityID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "taskPriority",
+        "Type": "Project_Management_Admin_Panel.Models.TaskPriority",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project_Management_Admin_Panel.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "authInfo",
+        "Type": "Project_Management_Admin_Panel.Models.Auth_Model",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication2.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Project_Management_Admin_Panel.WeatherForecast, Project Management Admin Panel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
